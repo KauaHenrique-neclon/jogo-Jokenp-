@@ -8,3 +8,13 @@ O Jogo do Jokenpô é uma implementação simples do tradicional jogo de pedra, 
 Pedra
 Papel
 Tesoura
+
+## Como Jogar
+
+Digite 1 para Pedra
+Digite 2 para Papel
+Digite 3 para Tesoura
+
+## Requisitos
+Compilador C (como GCC)
+Sistema Operacional: Linux, macOS ou Windows
